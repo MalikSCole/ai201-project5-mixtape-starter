@@ -278,6 +278,9 @@ The regression test I am highlighting is `test_playlist_returns_all_songs` from 
 Screenshot included separately from:
 ## Commit History
 
+## Commit History
+
+
 ![Git log showing separate fix commits](screenshots:git-log.png)
 
 ```bash
